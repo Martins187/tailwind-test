@@ -9,7 +9,7 @@
             </div>
         </div>
     
-        <div class="flex border-solid border-1 border-cream sm:relative items-center bg-white mx-5 sm:mx-0 h-15 sm:w-663px justify-between">
+        <div class="hover:shadow-bottom focus-within:border-1 focus-within:border-solid focus-within:border-blue flex border-solid border-1 border-cream sm:relative items-center bg-white mx-5 sm:mx-0 h-15 sm:w-663px justify-between">
             <div class="flex justify-left items-center">
                 <div class="w-1 h-15 bg-blue"></div>
 
